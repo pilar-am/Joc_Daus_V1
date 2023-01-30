@@ -1,5 +1,5 @@
 
-#JOC DE DAUS VERSIÓ 1
+# JOC DE DAUS VERSIÓ 1
 
 API on es gestiona un joc de daus, amb usuaris i partides dels usuaris amb base de dades relacional(MYSQL)
 
