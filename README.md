@@ -15,5 +15,5 @@ http://localhost:9000/players/ranking/loser    Retorna el jugador/a amb pitjor p
 http://localhost:9000/players/ranking/winner   Retorna el jugador/a  amb millor percentatge d’èxit<br>
 http://localhost:9000/players/{id}             Modifica el nom del jugador<br>
 
-Nom base de dades: joc_daus
+Nom base de dades: joc_daus<br>
 URL Swagger:  http://localhost:9000/swagger-ui/index.html
