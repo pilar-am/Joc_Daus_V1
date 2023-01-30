@@ -1,4 +1,3 @@
-# Joc_Daus_V1
 
 #JOC DE DAUS VERSIÓ 1
 
